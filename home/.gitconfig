@@ -1,0 +1,14 @@
+[user]
+  name = gaocheng
+  email = gaocheng@xueqiu.com
+[credential]
+  helper = osxkeychain
+[core]
+  editor = vim
+[alias]
+  co = checkout
+  ci = commit -m
+  cia = commit -am
+  st = status
+  br = branch
+  po = pull origin
